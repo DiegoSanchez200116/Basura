@@ -8,4 +8,4 @@ for i in range(10):
     def suma(a,b):
         return a + b
     
-    print(suma(98, 67))
+print(suma(98, 67))
